@@ -1,0 +1,39 @@
+# Built artifacts
+/build
+/*/build
+
+# Gradle files
+.gradle/
+.kotlin/
+gradle-wrapper.jar
+
+# IntelliJ/Android Studio files
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Local configuration
+local.properties
+
+# Captures and logs
+/captures
+*.log
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Android Studio internal files
+.navigation/
+.externalNativeBuild/
+.cxx/
+
+# Gradle signing
+*.jks
+*.keystore
+*.p12
+
+# Agent specific
+.agent/
