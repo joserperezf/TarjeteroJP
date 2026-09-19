@@ -35,4 +35,4 @@ La aplicación actúa como una tarjeta de presentación digital offline. Su obje
 - **Compatibilidad para usuarios sin la App:** Generación de vCard mediante códigos QR o etiquetas NFC para que personas que no tengan la aplicación instalada puedan guardar tu contacto directamente en su agenda telefónica.
 
 ---
-*Desarrollado por José Pérez, matricúla 100016540 y Android Studio.*
+*Desarrollado por José Pérez, matrícula 100016540 y Android Studio.*
